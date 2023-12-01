@@ -1,8 +1,8 @@
 # Portfolio
 
-![THumb](/readme/mark.jpg)
+![THumb](/readme/mark.png)
 
-Visit website [HERE](https://yuricorredor.tech/).
+Visit website [HERE](https://vitrukportfolio.vercel.app/).
 
 <br>
 
@@ -36,7 +36,7 @@ $PROJECT_ROOT
 # Run Locally
 
 ```bash
-git clone https://github.com/itloverman/portfolio.git
+git clone https://github.com/itismylove/my-portfolio.git
 cd portfolio
 # install dependencies
 npm install
@@ -54,6 +54,6 @@ yarn dev
 
 # OVERVIEW :)
 
-Visit website [HERE](https://yuricorredor.tech/).
+Visit website [HERE](https://vitrukportfolio.vercel.app/).
 
 ![OVERVIEW](/readme/overview.png)
