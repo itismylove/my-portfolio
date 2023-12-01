@@ -60,7 +60,7 @@ export default function Footer() {
                     </div>
                 </div>
                 <div className="flex w-full justify-center border-t-[1px] border-black">
-                    <p className="p-2 pt-3 text-xs text-bold">© Copyright | Edison Harris </p>
+                    <p className="p-2 pt-3 text-xs text-bold">© Copyright | Vitruk Dmytro </p>
                 </div>
             </div>
         </footer>
